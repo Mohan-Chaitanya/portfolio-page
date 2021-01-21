@@ -36,3 +36,7 @@ footer > a > img {
 .content {
 	padding-left: 15rem;
 }
+
+footer {
+	text-align: right;
+}
